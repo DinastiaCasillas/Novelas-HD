@@ -3,41 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dinastía Casillas HD | Ver Novelas Mexicanas Online Gratis</title>
-    <meta name="description" content="Ver todos los capítulos de Dinastía Casillas en HD. Resúmenes exclusivos, análisis de personajes y actualizaciones diarias de la mejor serie de acción.">
+    <title>Dinastía Casillas HD | Ver Novelas Online Gratis</title>
+    <meta name="description" content="Ver capítulos completos de Dinastía Casillas en HD. Resúmenes, análisis y actualizaciones diarias de tu serie favorita.">
     <style>
         :root { --main-red: #e50914; --dark-bg: #141414; --card-bg: #2f2f2f; }
-        body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: var(--dark-bg); color: white; margin: 0; padding: 0; }
-        header { padding: 20px 5%; background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%); position: fixed; width: 90%; z-index: 1000; }
-        .logo { color: var(--main-red); font-size: 30px; font-weight: bold; text-decoration: none; letter-spacing: 1px; }
-        .hero { height: 70vh; background: linear-gradient(to right, rgba(0,0,0,0.8), rgba(0,0,0,0.1)), url('https://images.unsplash.com/photo-1594908900066-3f47337549d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'); background-size: cover; display: flex; align-items: center; padding: 0 5%; }
+        body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: var(--dark-bg); color: white; margin: 0; padding: 0; overflow-x: hidden; }
+        header { padding: 20px 5%; background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%); position: absolute; width: 90%; z-index: 1000; }
+        .logo { color: var(--main-red); font-size: 28px; font-weight: bold; text-decoration: none; letter-spacing: 1px; text-transform: uppercase; }
+        .hero { 
+            height: 65vh; 
+            background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.2)), url('assets/images/cap-73.jpg'); 
+            background-size: cover; 
+            background-position: center;
+            display: flex; 
+            align-items: center; 
+            padding: 0 5%; 
+        }
         .hero-content { max-width: 600px; }
-        .hero-content h1 { font-size: 50px; margin-bottom: 10px; }
-        .hero-content p { font-size: 18px; color: #ccc; margin-bottom: 25px; }
-        .btn-main { background-color: var(--main-red); color: white; padding: 12px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; font-size: 18px; transition: 0.3s; }
-        .btn-main:hover { background-color: #ff0a16; }
-        .section-title { padding: 30px 5% 10px; font-size: 24px; border-left: 5px solid var(--main-red); margin-left: 5%; margin-top: 40px; }
-        .episodes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 20px 5%; }
-        .episode-card { background: var(--card-bg); border-radius: 8px; overflow: hidden; transition: transform 0.3s; text-decoration: none; color: white; }
-        .episode-card:hover { transform: scale(1.05); }
-        .episode-card img { width: 100%; height: 160px; object-fit: cover; background: #444; }
+        .hero-content h1 { font-size: 48px; margin-bottom: 15px; text-transform: uppercase; }
+        .hero-content p { font-size: 18px; color: #e5e5e5; margin-bottom: 25px; line-height: 1.5; }
+        .btn-main { background-color: var(--main-red); color: white; padding: 12px 35px; text-decoration: none; font-weight: bold; border-radius: 4px; font-size: 18px; transition: 0.3s ease; display: inline-block; }
+        .btn-main:hover { background-color: #ff0a16; transform: scale(1.05); }
+        .section-title { padding: 40px 5% 10px; font-size: 22px; color: #fff; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+        .episodes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; padding: 20px 5%; }
+        .episode-card { background: var(--card-bg); border-radius: 4px; overflow: hidden; transition: 0.3s ease; text-decoration: none; color: white; border-bottom: 3px solid transparent; }
+        .episode-card:hover { transform: translateY(-10px); border-bottom-color: var(--main-red); }
+        .episode-card img { width: 100%; height: 170px; object-fit: cover; display: block; }
         .card-info { padding: 15px; }
-        .card-info h3 { margin: 0; font-size: 18px; }
-        .card-info span { color: var(--main-red); font-size: 14px; font-weight: bold; }
-        footer { padding: 50px 5%; text-align: center; border-top: 1px solid #333; margin-top: 50px; color: #777; font-size: 14px; }
+        .card-info span { color: var(--main-red); font-size: 12px; font-weight: bold; text-transform: uppercase; }
+        .card-info h3 { margin: 5px 0 0; font-size: 16px; font-weight: 500; }
+        footer { padding: 40px 5%; text-align: center; border-top: 1px solid #333; margin-top: 60px; color: #808080; font-size: 13px; }
     </style>
 </head>
 <body>
 
 <header>
-    <a href="#" class="logo">DINASTÍA CASILLAS</a>
+    <a href="./" class="logo">Dinastía Casillas</a>
 </header>
 
 <div class="hero">
     <div class="hero-content">
         <h1>Imperio de Poder</h1>
-        <p>Sigue la historia de Ismael Casillas en su lucha por dominar el imperio más grande de la historia. Acción, traición y drama en cada episodio.</p>
-        <a href="capitulo-73/" class="btn-main">▶️ Ver Último Capítulo</a>
+        <p>Disfruta de la mejor calidad HD. Análisis detallados y resúmenes completos de cada episodio de la nueva temporada.</p>
+        <a href="capitulo-73/" class="btn-main">VER ÚLTIMO CAPÍTULO</a>
     </div>
 </div>
 
@@ -45,24 +53,24 @@
 
 <div class="episodes-grid">
     <a href="capitulo-73/" class="episode-card">
-        <img src="https://via.placeholder.com/300x160/222/ff0000?text=CAPITULO+73" alt="Capitulo 73">
+        <img src="assets/images/cap-73.jpg" alt="Dinastia Casillas Capitulo 73">
         <div class="card-info">
-            <span>NUEVO</span>
+            <span>Nuevo</span>
             <h3>Capítulo 73: La Traición Final</h3>
         </div>
     </a>
 
     <a href="capitulo-72/" class="episode-card">
-        <img src="https://via.placeholder.com/300x160/222/ff0000?text=CAPITULO+72" alt="Capitulo 72">
+        <img src="assets/images/cap-72.jpg" alt="Dinastia Casillas Capitulo 72">
         <div class="card-info">
-            <span>RESUMEN</span>
+            <span>Resumen</span>
             <h3>Capítulo 72: El Quiebre del Imperio</h3>
         </div>
     </a>
 </div>
 
 <footer>
-    <p>&copy; 2026 Dinastía Casillas HD. Todos los derechos reservados. <br> Este es un portal de análisis y resúmenes de telenovelas.</p>
+    <p>&copy; 2026 Dinastía Casillas HD. Todos los derechos reservados.</p>
 </footer>
 
 </body>
