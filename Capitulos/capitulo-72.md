@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dinastía Casillas Capítulo 72 HOY | Resumen Extenso y Análisis de 2000 Palabras</title>
     <meta name="description" content="Análisis profundo de 2000 palabras sobre el capítulo 72 de Dinastía Casillas hoy 23 de enero. Ismael, Rutila y el destino del imperio en HD.">
-    <link rel="canonical" href="https://dinastiacasillas.github.io/Novelas-HD/Capitulos/capitulo-72.md" />
+    <link rel="canonical" href="https://dinastiacasillas.github.io/Novelas-HD/Capitulos/capitulo-72" />
     
     <style>
         body { margin: 0; font-family: 'Georgia', serif; background: #fff; color: #1a1a1a; line-height: 1.8; }
