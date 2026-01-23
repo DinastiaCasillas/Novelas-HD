@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dinastiacasillas.github.io/Novelas-HD/sitemap.xml
