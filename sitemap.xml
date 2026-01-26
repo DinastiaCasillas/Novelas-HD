@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/noticias-hoy/</loc>
-    <lastmod>2026-01-26T14:30:00+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.00</priority>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/</loc>
-    <lastmod>2026-01-26T14:00:00+00:00</lastmod>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/noticias-hoy/</loc>
+    <lastmod>2026-01-26</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.90</priority>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-75/</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-74/</loc>
-    <lastmod>2026-01-26T12:00:00+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.95</priority>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-73/</loc>
-    <lastmod>2026-01-26T10:00:00+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.90</priority>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-72/</loc>
-    <lastmod>2026-01-24T05:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-71/</loc>
-    <lastmod>2026-01-23T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <lastmod>2026-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
 </urlset>
