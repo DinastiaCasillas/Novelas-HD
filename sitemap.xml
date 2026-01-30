@@ -1,46 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Página principal -->
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- Noticias -->
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/noticias-hoy/</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- Capítulos -->
   <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-75/</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-71/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-74/</loc>
-    <lastmod>2026-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-72/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-73/</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-72/</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-74/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-75/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-76/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-77/</loc>
+    <lastmod>2026-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-78/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://dinastiacasillas.github.io/Novelas-HD/capitulo-79/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
